@@ -8,7 +8,7 @@ Legacy Skills: Android, PHP5.6, Laravel5.1, Java
 
 - 🔭 I’m currently working on chabot mobility as a back-end developer.
 - 🌱 I’m currently learning nestjs, typescript, python, data structure, algorithm.
-- 🤔 I'm oriented full-stack engineer but not yet!
+- 🤔 I'm oriented full-stack engineer!
 
 ### Portfolio
 - Web: [Ablepen][ablepenlink]
