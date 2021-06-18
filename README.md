@@ -12,9 +12,10 @@ Legacy Skills: Android, PHP5.6, Laravel5.1, Java
 
 ### Portfolio
 - Web: [Ablepen][ablepenlink]
-- App: [ChabotPrime][chabotprimelink]
+- App: [재무디자인][thejeamoolink], [ChabotPrime][chabotprimelink]
 
 [ablepenlink]: http://ablepen.co.kr
+[thejeamoo]: https://play.google.com/store/apps/details?id=kr.co.thefc.jaemoodesign&hl=ko&gl=US
 [chabotprimelink]: https://apps.apple.com/kr/app/차봇프라임/id1492427449
 <!--
 **seungmin3577/seungmin3577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
