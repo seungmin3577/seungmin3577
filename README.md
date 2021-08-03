@@ -10,6 +10,8 @@ Legacy Skills: Android, PHP5.6, Laravel5.1, Java
 - 🌱 I’m currently learning nestjs, typescript, python, data structure, algorithm.
 - 🤔 I'm oriented full-stack engineer!
 
+### Blog[bloglink]
+
 ### Portfolio
 - Web: [Ablepen][ablepenlink]
 - App: [재무디자인][thejeamoolink], [ChabotPrime][chabotprimelink]
@@ -17,6 +19,7 @@ Legacy Skills: Android, PHP5.6, Laravel5.1, Java
 [ablepenlink]: http://ablepen.co.kr
 [thejeamoolink]: https://play.google.com/store/apps/details?id=kr.co.thefc.jaemoodesign&hl=ko&gl=US
 [chabotprimelink]: https://apps.apple.com/kr/app/차봇프라임/id1492427449
+[bloglink]: https://velog.io/@seungmin3577
 <!--
 **seungmin3577/seungmin3577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
