@@ -12,10 +12,6 @@ Legacy Skills: Android, PHP5.6, Laravel5.1, Java
 
 ### [Blog][bloglink]
 
-### Portfolio
-- Web: [Ablepen][ablepenlink]
-- App: [재무디자인][thejeamoolink], [ChabotPrime][chabotprimelink]
-
 [ablepenlink]: http://ablepen.co.kr
 [thejeamoolink]: https://play.google.com/store/apps/details?id=kr.co.thefc.jaemoodesign&hl=ko&gl=US
 [chabotprimelink]: https://apps.apple.com/kr/app/차봇프라임/id1492427449
