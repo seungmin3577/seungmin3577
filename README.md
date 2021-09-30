@@ -10,8 +10,8 @@ Legacy Skills: Android, PHP5.6, Laravel5.1, Java
 - 🌱 I’m currently learning nestjs, typescript, python, data structure, algorithm.
 - 🤔 I'm oriented full-stack engineer!
 
-### [Notion][notionlink]
-### [Velog][bloglink]
+✏️[Notion][notionlink]
+👉[Velog][bloglink]
 
 [ablepenlink]: http://ablepen.co.kr
 [thejeamoolink]: https://play.google.com/store/apps/details?id=kr.co.thefc.jaemoodesign&hl=ko&gl=US
