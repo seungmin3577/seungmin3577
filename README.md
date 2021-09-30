@@ -11,6 +11,7 @@ Legacy Skills: Android, PHP5.6, Laravel5.1, Java
 - 🤔 I'm oriented full-stack engineer!
 
 ✏️[Notion][notionlink]
+
 👉[Velog][bloglink]
 
 [ablepenlink]: http://ablepen.co.kr
