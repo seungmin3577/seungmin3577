@@ -3,9 +3,9 @@
 ![junghwayang](https://komarev.com/ghpvc/?username=seungmin3577)
 [![GitHub SeungMinJeong](https://img.shields.io/github/followers/seungmin3577?label=Follow&style=social)](https://github.com/seungmin3577)
 
-Main Skills: Node.js, Express, TypeScript, NestJS, MySQL, AWS, REST API,  Git, JavaScript( ES6 )
-Sub Skills: Kotlin, Spring Boot, GraphQL, Apollo, React, EJS, HTML5, CSS3
-Legacy Skills: Android, PHP5.6, Laravel5.1, Java
+- Main Skills: Node.js, Express, TypeScript, NestJS, MySQL, AWS, REST API,  Git, JavaScript( ES6 )
+- Sub Skills: Kotlin, Spring Boot, GraphQL, Apollo, React, EJS, HTML5, CSS3
+- Legacy Skills: Android, PHP5.6, Laravel5.1, Java
 
 - 🔭 I’m currently working on chabot mobility as a back-end developer.
 - 🌱 I’m currently learning nestjs, typescript, spring boot, kotlin, data structure, algorithm.
