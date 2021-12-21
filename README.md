@@ -13,6 +13,7 @@
 - 🔭 I’m currently working on chabot mobility as a back-end developer.
 - 🌱 I’m currently learning nestjs, typescript, spring boot, kotlin, data structure, algorithm.
 
+### Other
 ✏️[Notion][notionlink]
 👉[Velog][bloglink]
 
