@@ -6,7 +6,7 @@
 ### Skill
 - Main Skills: Node.js, Express, TypeScript, NestJS, MySQL, AWS, REST API,  Git, JavaScript( ES6 )
 - Sub Skills: Kotlin, Spring Boot, GraphQL, Apollo, React, EJS, HTML5, CSS3
-- Legacy Skills: Android, PHP5.6, Laravel5.1, Java
+- Other Experience Skills: Android, PHP5.6, Laravel5.1, Java
 
 
 ### I'm
